@@ -1,0 +1,13 @@
+item_id,title,category,description
+1,Introduction to Python,programming,Learn basic python loops and functions
+2,Advanced Python,programming,Explore python classes patterns and testing
+3,SQL Analytics,data,Use SQL queries for reporting and analysis
+4,Data Warehousing,data,Model star schemas and warehouse pipelines
+5,Machine Learning Basics,ai,Understand models features and evaluation
+6,Deep Learning,ai,Learn neural networks and embeddings
+7,Cloud Fundamentals,cloud,Understand infrastructure and cloud platforms
+8,Docker for Developers,cloud,Build and deploy Docker containers
+9,Statistics Essentials,data,Explore statistics and probability for analysis
+10,Recommendation Systems,ai,Build collaborative and content recommenders
+11,FastAPI Development,programming,Create Python API backend services
+12,Kubernetes Essentials,cloud,Orchestrate distributed workloads
